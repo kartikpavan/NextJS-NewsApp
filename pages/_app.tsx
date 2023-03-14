@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="h-auto bg-slate-200">
+      <main className="min-h-[100vh] bg-slate-200">
         <Component {...pageProps} />
       </main>
     </div>
