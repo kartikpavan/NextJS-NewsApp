@@ -30,7 +30,7 @@ export default function BreakingNewsPage({ newsArticles }: BreakingNewsPageProps
       <main className="p-2">
         <h1 className="text-3xl font-medium my-4">Breaking News</h1>
         {/* Alert */}
-        <div className="w-[70vw] mx-auto">
+        <div className="w-[70vw] ">
           <div className="alert alert-info shadow-lg mb-6">
             <div>
               <p>
