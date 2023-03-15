@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar bg-neutral text-neutral-content sticky top-0 z-50">
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a className="btn btn-ghost normal-case text-xl">NEXT-JS News APP</a>
         <div className="flex-none">
           <ul className="menu menu-horizontal px-1">
             <li>
