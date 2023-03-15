@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/81632171/225243985-4c87e3af-92a9-4d93-aaf8-e7aed5f0cf80.png)
+ Live @ https://next-js-news-app-phi.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
