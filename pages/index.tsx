@@ -11,6 +11,7 @@ interface BreakingNewsPageProps {
   newsArticles: NewsArticle[];
 }
 
+//server side props loads the data from  the server before we open the page
 export const getServerSideProps: GetServerSideProps<BreakingNewsPageProps> = async () => {
   const response =
     await fetch(`https://newsapi.org/v2/top-headlines?country=in&apiKey=${process.env.NEWS_API_KEY}
